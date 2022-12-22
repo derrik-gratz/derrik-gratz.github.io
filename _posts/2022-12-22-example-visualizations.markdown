@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example Visualizations"
+title:  "Example Bioinformatics Visualizations"
 date:   2022-12-22
 ---
 
