@@ -5,7 +5,7 @@ date:   2022-12-22
 ---
 
 RShiny website for interactive bulk RNA-seq analysis
-![Gif of RShiny website](/assets/images/rshiny.gif)
+![Gif of RShiny website](/assets/images/rshiny_trimmed.gif)
 
 Tracking mutation hotspots in COVID samples
 ![Example Circos plot](/assets/images/circos.png)
