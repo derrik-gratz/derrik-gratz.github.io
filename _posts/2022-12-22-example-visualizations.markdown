@@ -4,6 +4,9 @@ title:  "Example Visualizations"
 date:   2022-12-22
 ---
 
+RShiny website for interactive bulk RNA-seq analysis
+![Gif of RShiny website](/assets/images/rshiny.gif)
+
 Tracking mutation hotspots in COVID samples
 ![Example Circos plot](/assets/images/circos.png)
 
@@ -15,7 +18,6 @@ Pathway enrichment in bulk RNA-seq studies
 
 Tracking mutation trends in cancer cohorts
 ![Example lolipop plot](/assets/images/lolipop.png)
-
 
 Gene expression in a time-course + intervention study
 ![Example expression plot](/assets/images/expression_trends.png)
